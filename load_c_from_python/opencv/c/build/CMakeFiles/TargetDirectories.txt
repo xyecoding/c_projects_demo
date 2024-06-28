@@ -1,0 +1,3 @@
+/home/Eric/temp_try/try_c_python/try/c++/c/build/CMakeFiles/call_generate_random_image.dir
+/home/Eric/temp_try/try_c_python/try/c++/c/build/CMakeFiles/edit_cache.dir
+/home/Eric/temp_try/try_c_python/try/c++/c/build/CMakeFiles/rebuild_cache.dir

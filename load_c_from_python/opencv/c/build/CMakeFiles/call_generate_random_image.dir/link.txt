@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libcall_generate_random_image.so -o libcall_generate_random_image.so CMakeFiles/call_generate_random_image.dir/main.c.o  -Wl,-rpath,/home/Eric/temp_try/try_c_python/try/c++/build /home/Eric/temp_try/try_c_python/try/c++/build/libgenerate_random_image.so 
